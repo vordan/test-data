@@ -1,0 +1,1525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Resume xml:lang="en" xmlns="http://ns.hr-xml.org/2006-02-28" xmlns:sov="http://sovren.com/hr-xml/2006-02-28">
+	<ResumeId>
+		<IdValue />
+	</ResumeId>
+	<StructuredXMLResume>
+		<ContactInfo>
+			<PersonName>
+				<FormattedName>Jodie Vanderman Driver, MBA</FormattedName>
+				<GivenName>Jodie</GivenName>
+				<MiddleName>Vanderman</MiddleName>
+				<FamilyName>Driver</FamilyName>
+				<Affix type="qualification">MBA</Affix>
+			</PersonName>
+			<ContactMethod>
+				<WhenAvailable>anytime</WhenAvailable>
+				<PostalAddress>
+					<CountryCode>US</CountryCode>
+					<PostalCode>19382</PostalCode>
+					<Region>PA</Region>
+					<Municipality>West Chester</Municipality>
+					<DeliveryAddress>
+						<AddressLine>234 Heather Ridge Circle</AddressLine>
+					</DeliveryAddress>
+				</PostalAddress>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<Mobile>
+					<FormattedNumber>(724) 255-2295</FormattedNumber>
+				</Mobile>
+			</ContactMethod>
+			<ContactMethod>
+				<Use>personal</Use>
+				<Location>onPerson</Location>
+				<WhenAvailable>anytime</WhenAvailable>
+				<InternetEmailAddress>JodieVDriver@gmail.com</InternetEmailAddress>
+			</ContactMethod>
+		</ContactInfo>
+		<EmploymentHistory>
+			<EmployerOrg>
+				<EmployerOrgName>WEST CHESTER UNIVERSITY OF PENNSYLVANIA</EmployerOrgName>
+				<PositionHistory positionType="directHire" currentEmployer="true">
+					<Title>Professor of Marketing Strategy and Sales</Title>
+					<OrgName>
+						<OrganizationName>WEST CHESTER UNIVERSITY OF PENNSYLVANIA</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>PA</Region>
+							<Municipality>West Chester</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Facilitate active learning and independent thinking among junior and senior business majors with mission to shape future leaders who are prepared to successfully and ethically run global businesses.
+• Core subject is marketing strategy: conduct hands-on teaching to develop skills in competitor analysis; situational analysis; segmentation, targeting, and positioning; 4Ps build-out; financial modeling; metric monitoring; new product development; product lifecycle management; and S curve modeling.
+• Extended subjects include: Advertising, Marketing Management, and Personal Selling.
+• Teach 100+ junior and senior business majors each semester.</Description>
+					<StartDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2018-01-08</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-1</sov:Id>
+							<sov:CompanyNameProbability>19</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>38</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>E.I. DU PONT DE NEMOURS AND COMPANY</EmployerOrgName>
+				<PositionHistory>
+					<OrgName>
+						<OrganizationName>E.I. DU PONT DE NEMOURS AND COMPANY</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>DE</Region>
+							<Municipality>Wilmington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description></Description>
+					<StartDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-2</sov:Id>
+							<sov:CompanyNameProbability>25</sov:CompanyNameProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>Food Diagnostics Protection Business</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Global Manager</Title>
+					<OrgName>
+						<OrganizationName>Health &amp; Nutrition Division</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>DE</Region>
+							<Municipality>Wilmington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Led full portfolio of $3.4 billion Health &amp; Nutrition business unit's global food and pharmaceutical safety business with 100% P&amp;L accountability. Established global strategies. Directed incremental and disruptive innovation identification and product commercialization efforts, and spearheaded sales campaigns.
+• Set new precedent for product commercialization by compressing technology adoption and revenue realization process to six months, vs. historical two-to-three year timeframe. Reforecast sales increase by $5M in 2014.
+• Led monthly global stage-gate review of 30 new product development efforts across the Food BioProtection Division.
+• Worked with 11 Regional Product Managers around the world to drive global strategies into tactical regional plans for successful technology adoption and sales execution.
+• Created a growth program to bring transparency and accountability to delivering against adoption and sales targets for key new products.
+• Overhauled portfolio pricing and product positioning to maintain variable margin levels and retain 96% of customers in fragmenting and commoditizing market.</Description>
+					<StartDate>
+						<AnyDate>2013-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2013-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-3</sov:Id>
+							<sov:CompanyNameProbability>13</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>25</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+				<PositionHistory positionType="directHire">
+					<Title>Global Manager</Title>
+					<OrgName>
+						<OrganizationName>Health &amp; Nutrition Division, Food Diagnostics Protection Business</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>DE</Region>
+							<Municipality>Wilmington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Managed 65% of product portfolio P&amp;L accountability. Led daily business operations, while creating global marketing objectives, strategies and tactics to grow business.
+• Identified and drove 10 new product development efforts across the portfolios.  Validated product strategy, specifications, and product adoption case utilizing voice of customer, competitive benchmarking, and market research, and by projecting global government regulation changes.  Pitched new product development plans to a cross functional team for funding approval and resource allocation.  Represented customer and market insights throughout the stage gate process.  Initiated and won support for 2 new product develop efforts with 2013 commercialization dates and expected revenue of $5M in year one.
+• Overhauled strategy for important, but lagging product by repositioning it and redirecting U.S.-focused resources to global markets, resulting in sales of $1.1M versus $97K in 2011.
+• Negotiated non-exclusive licensing agreement with South Korean company to deliver disruptive, next-generation technology. Developed product specifications and business case, as well as strategic positioning, technology adoption rates, and financing terms. 2015 expected revenue is $6M.
+• Led business turnaround by focusing on quality control, inventory management, global marketing, and sales force retraining.  Exceeded target revenue by 5%.</Description>
+					<StartDate>
+						<AnyDate>2012-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2012-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-4</sov:Id>
+							<sov:CompanyNameProbability>13</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>25</sov:PositionTitleProbability>
+							<sov:NumberOfEmployeesSupervised>65</sov:NumberOfEmployeesSupervised>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Asia Pacific Marketing Manager</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>CN</CountryCode>
+							<Municipality>Shanghai</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Launched dramatically new regional strategic marketing process focused on addressing critical short-term growth issues with special emphasis on China, India, and Southeast Asia.
+• Primary market was agriculture- crop and food protection.  Initiatives addressed repositioning current products to maximize profitability, new product development, and country penetration strategies.
+• Led cross-functional teams to identify opportunities and trouble shoot technology and commercialization challenges.  Delivered incremental revenue of $3M USD within 15 months.
+• Exceeded strategic business targets by completing work in rapid, 18-month timeframe.
+• Created and implemented customized change management approach that became best practice and has been adopted globally.</Description>
+					<StartDate>
+						<AnyDate>2010-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2011-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-5</sov:Id>
+							<sov:PositionTitleProbability>21</sov:PositionTitleProbability>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName></EmployerOrgName>
+				<PositionHistory positionType="contract">
+					<Title>Global Marketing Strategy Consultant</Title>
+					<OrgName>
+						<OrganizationName />
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>DE</Region>
+							<Municipality>Wilmington</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Provided subject matter expertise as member of internal consulting team to significantly increase profitability across multiple and highly-varied company businesses.
+• Directed pricing overhaul for Pioneer Seed Corn Business that identified $30 million revenue gain for 2009 season by conducting competitor pricing analysis, and by capturing pricing discrepancies across product portfolio.
+• Conducted market and customer segmentation for Chemical Solutions Enterprises Specialty Polymer Solutions business that led to $5 million in saving through significant capital cost improvements and positive price/volume growth trade-offs.
+• Implemented simplified segmentation methodology to support fast customer-focused decision-making for FluroPolymer Solutions business - helping it weather dramatic downturn because of weak global economic conditions, leading to $60M fixed cost savings in one year.</Description>
+					<StartDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2009-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-6</sov:Id>
+							<sov:PositionTitleProbability>26</sov:PositionTitleProbability>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Consultant</sov:SelfEmploymentPhrase>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+			<EmployerOrg>
+				<EmployerOrgName>MARY KAY COSMETICS</EmployerOrgName>
+				<PositionHistory positionType="directHire">
+					<Title>Independent Business Owner and Sales Leader</Title>
+					<OrgName>
+						<OrganizationName>MARY KAY COSMETICS</OrganizationName>
+					</OrgName>
+					<OrgInfo>
+						<PositionLocation>
+							<CountryCode>US</CountryCode>
+							<Region>TX</Region>
+							<Municipality>Dallas</Municipality>
+						</PositionLocation>
+					</OrgInfo>
+					<Description>Bentleyville, PA
+Created and implemented start-up business plan for leading national direct sales franchise.  Led, managed and trained 25-person sales team, building strong retention in this high-turnover industry.
+• Planned and launched segmentation and targeting strategies to grow business from zero to more than 500 customers within two years.
+• Produced robust repeat sales with 80% of customer base consisting of loyal purchasers; 30% of customers maintained for three or more years with high average sales per customer.
+• Qualified for "Career Car Program" - a revenue-based and team-building performance bonus achieved by approximately 3% of sales representatives globally.
+
+AFFILIATION
+• Member, Board of Directors, Penn State University, Smeal College of Business MBA Program
+• Member, Board of Directors, Shippensburg University Alumni Association
+• Founding Member, Lean In, Chester County
+• Past Member, Board of Directors, DuPont Marketing Leadership Development Program
+• Past Leader, DuPont Women's Network</Description>
+					<StartDate>
+						<AnyDate>2001-01-01</AnyDate>
+					</StartDate>
+					<EndDate>
+						<AnyDate>2006-12-31</AnyDate>
+					</EndDate>
+					<UserArea>
+						<sov:PositionHistoryUserArea>
+							<sov:Id>POS-7</sov:Id>
+							<sov:CompanyNameProbability>22</sov:CompanyNameProbability>
+							<sov:PositionTitleProbability>28</sov:PositionTitleProbability>
+							<sov:IsSelfEmployed>true</sov:IsSelfEmployed>
+							<sov:SelfEmploymentPhrase>Owner</sov:SelfEmploymentPhrase>
+						</sov:PositionHistoryUserArea>
+					</UserArea>
+				</PositionHistory>
+			</EmployerOrg>
+		</EmploymentHistory>
+		<EducationHistory>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>PENNSYLVANIA STATE UNIVERSITY</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>US</CountryCode>
+					<Region>PA</Region>
+					<Municipality>University Park</Municipality>
+				</PostalAddress>
+				<Degree degreeType="masters">
+					<DegreeName>Master of Business Administration</DegreeName>
+					<DegreeMajor>
+						<Name>Product and Market Development and Strategic Leadership</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>Government</Name>
+					</DegreeMinor>
+					<Comments>PENNSYLVANIA STATE UNIVERSITY, University Park, PA
+Master of Business Administration, Product and Market Development and Strategic Leadership
+
+• President, Student Government
+
+• Vice President, Marketing Association
+
+• Graduate Assistantships:
+◦ Office of the Dean - Academic Integrity, 2007</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-1</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="college">
+				<School>
+					<SchoolName>College of Business</SchoolName>
+				</School>
+				<Degree>
+					<DegreeDate>
+						<AnyDate>2008-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>Office of the Dean of Executive Education</Name>
+					</DegreeMajor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>2007-01-01</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2008-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>* Created and implemented academic integrity guidelines within the College of Business
+◦ Office of the Dean of Executive Education, 2007-2008
+* Developed adult education programming for corporate customers</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-2</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+			<SchoolOrInstitution schoolType="university">
+				<School>
+					<SchoolName>SHIPPPENSBURG UNIVERSITY OF PENNSYLVANIA</SchoolName>
+				</School>
+				<PostalAddress>
+					<CountryCode>US</CountryCode>
+					<Region>PA</Region>
+					<Municipality>Shippensburg</Municipality>
+				</PostalAddress>
+				<Degree degreeType="bachelors">
+					<DegreeName>Bachelor of Science in Business Administration</DegreeName>
+					<DegreeDate>
+						<AnyDate>2007-01-01</AnyDate>
+					</DegreeDate>
+					<DegreeMajor>
+						<Name>business</Name>
+					</DegreeMajor>
+					<DegreeMinor>
+						<Name>International Business</Name>
+					</DegreeMinor>
+					<DatesOfAttendance>
+						<StartDate>
+							<AnyDate>notKnown</AnyDate>
+						</StartDate>
+						<EndDate>
+							<AnyDate>2007-01-01</AnyDate>
+						</EndDate>
+					</DatesOfAttendance>
+					<Comments>• DuPont Federal Government Division - North America Marketing Strategy Consultant, 2007
+◦ Identified opportunities and strategies to drive adoption of DuPont products by the Department of Defense and Department of Energy
+
+SHIPPPENSBURG UNIVERSITY OF PENNSYLVANIA, Shippensburg, PA
+Bachelor of Science in Business Administration
+
+• President, Beta Gamma Sigma (national business honor society)
+
+• Leader, International Business Association
+
+• President, Phi Beta Lambda (Future Business Leaders of America)
+
+• Magna Cum Laude Graduate
+
+• Honors College Graduate
+
+• John L. and Cora I. Groves Scholar</Comments>
+					<UserArea>
+						<sov:DegreeUserArea>
+							<sov:Id>DEG-3</sov:Id>
+						</sov:DegreeUserArea>
+					</UserArea>
+				</Degree>
+			</SchoolOrInstitution>
+		</EducationHistory>
+		<LicensesAndCertifications>
+			<LicenseOrCertification>
+				<Name>Certificate of Total Quality Management</Name>
+				<Id>1</Id>
+				<Description>certification</Description>
+			</LicenseOrCertification>
+		</LicensesAndCertifications>
+		<Qualifications>
+			<QualificationSummary>AREAS OF EXPERTISE
+
+Senior Business Leader and Marketing Professional with more than 15 years of experience in multiple business to business and business to consumer settings. Proven technical, financial management, change management, and problem solving skills.  Outstanding track-record in building high-performing teams to achieve results. Extensive experience working in global markets; recently lived in China for 2 years with Asia-wide responsibility. Full P&amp;L accountability in the food protection and consumer goods industries. Specific expertise includes:
+
+
+• Create financial models and determine product adoption rates
+• Determine market opportunities for incremental and disruptive innovation initiatives
+• Concentrated knowledge of China, India, and Southeast Asia markets
+• Lead senior management and multi-functional teams to drive new product development
+• Extensive involvement in agriculture markets- crop and food protection
+• Implement initiatives in dynamic and diverse environments</QualificationSummary>
+			<Competency name="ADULT EDUCATION">
+				<CompetencyId id="013763" />
+				<TaxonomyId id="580" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="adult education" typeDescription="Found in EDUCATION; DEG-2" typeId="013763" lastUsed="2008-01-01">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="adult education">
+					<StringValue description="taxonomies">Human Resources → Learning &amp; Development</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="ADVERTISING">
+				<CompetencyId id="1400153" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Advertising" typeDescription="Found in WORK HISTORY; POS-1" typeId="1400153" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Advertising">
+					<StringValue description="taxonomies">Marketing → Marketing Communications</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="B2B">
+				<CompetencyId id="1400202" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="B2B" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400202">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="B2B">
+					<StringValue description="taxonomies">Marketing → Advertising</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="B2B">
+				<CompetencyId id="1400117" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="B2B" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400117">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="B2B">
+					<StringValue description="taxonomies">Marketing → Channel, Partner &amp; Ecosystem Marketing</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="B2C">
+				<CompetencyId id="1400203" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="B2C" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400203">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="B2C">
+					<StringValue description="taxonomies">Marketing → Advertising</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS CASE">
+				<CompetencyId id="023527" />
+				<TaxonomyId id="204" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="business case" typeDescription="Found in WORK HISTORY; POS-4" typeId="023527" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business case">
+					<StringValue description="taxonomies">Information Technology → Programming</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS OPERATIONS">
+				<CompetencyId id="012214" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="business operations" typeDescription="Found in WORK HISTORY; POS-4" typeId="012214" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business operations">
+					<StringValue description="taxonomies">Business Operations and General Business → Management Activities or Functions</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS PLAN">
+				<CompetencyId id="1400084" />
+				<TaxonomyId id="589" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="business plan" typeDescription="Found in WORK HISTORY; POS-7" typeId="1400084" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business plan">
+					<StringValue description="taxonomies">Marketing → Business Planning</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS TO BUSINESS">
+				<CompetencyId id="1400365" idOwner="1400202" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="business to business" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400365">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business to business">
+					<StringValue description="taxonomies">Marketing → Advertising</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS TO BUSINESS">
+				<CompetencyId id="1400331" idOwner="1400117" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="business to business" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400331">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business to business">
+					<StringValue description="taxonomies">Marketing → Channel, Partner &amp; Ecosystem Marketing</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="BUSINESS TO CONSUMER">
+				<CompetencyId id="1400367" idOwner="1400203" />
+				<TaxonomyId id="595" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="business to consumer" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="1400367">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="business to consumer">
+					<StringValue description="taxonomies">Marketing → Advertising</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANGE MANAGEMENT">
+				<CompetencyId id="022159" />
+				<TaxonomyId id="251" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="change management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; WORK HISTORY; POS-5" typeId="022159" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="change management">
+					<StringValue description="taxonomies">Information Technology → Config Deploy Upgrade Migrate</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANGE MANAGEMENT">
+				<CompetencyId id="9000213" />
+				<TaxonomyId id="581" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="change management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; WORK HISTORY; POS-5" typeId="9000213" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="change management">
+					<StringValue description="taxonomies">Human Resources → Organization Development</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANGE MANAGEMENT">
+				<CompetencyId id="9000169" />
+				<TaxonomyId id="579" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="change management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; WORK HISTORY; POS-5" typeId="9000169" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="change management">
+					<StringValue description="taxonomies">Human Resources → HR Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="CHANGE MANAGEMENT">
+				<CompetencyId id="012977" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="change management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; WORK HISTORY; POS-5" typeId="012977" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="change management">
+					<StringValue description="taxonomies">Business Operations and General Business → Management Activities or Functions</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="DIRECT SALES">
+				<CompetencyId id="015467" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="direct sales" typeDescription="Found in WORK HISTORY; POS-7" typeId="015467" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="direct sales">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FEDERAL GOVERNMENT">
+				<CompetencyId id="017265" idOwner="022325" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="Federal Government" typeDescription="Found in EDUCATION; DEG-3" typeId="017265" lastUsed="2007-01-01">
+					<NumericValue description="Total Months">1</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Federal Government">
+					<StringValue description="taxonomies">Finance → Operations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FEDEX">
+				<CompetencyId id="025108" />
+				<TaxonomyId id="112" idOwner="1" description="Sovren" />
+				<CompetencyEvidence name="FedEx" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="025108">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="FedEx">
+					<StringValue description="taxonomies">Administrative or Clerical → Messages and Contact</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MANAGEMENT">
+				<CompetencyId id="022970" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="financial management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="022970">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial management">
+					<StringValue description="taxonomies">Business Operations and General Business → Management Activities or Functions</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MANAGEMENT">
+				<CompetencyId id="080197" />
+				<TaxonomyId id="236" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="financial management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="080197">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial management">
+					<StringValue description="taxonomies">Finance → Securities</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MANAGEMENT">
+				<CompetencyId id="080183" />
+				<TaxonomyId id="241" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="financial management" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS" typeId="080183">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial management">
+					<StringValue description="taxonomies">Finance → Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MODELING">
+				<CompetencyId id="017468" />
+				<TaxonomyId id="236" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="financial modeling" typeDescription="Found in WORK HISTORY; POS-1" typeId="017468" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial modeling">
+					<StringValue description="taxonomies">Finance → Securities</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MODELING">
+				<CompetencyId id="7000201" />
+				<TaxonomyId id="703" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="financial modeling" typeDescription="Found in WORK HISTORY; POS-1" typeId="7000201" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial modeling">
+					<StringValue description="taxonomies">Finance → Corporate Development</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="FINANCIAL MODELING">
+				<CompetencyId id="7000226" />
+				<TaxonomyId id="235" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="financial modeling" typeDescription="Found in WORK HISTORY; POS-1" typeId="7000226" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="financial modeling">
+					<StringValue description="taxonomies">Finance → Financial Planning &amp; Analysis</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INTERNATIONAL SALES">
+				<CompetencyId id="030483" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="International Sales" typeDescription="Found in EDUCATION" typeId="030483">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="International Sales">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVENTORY">
+				<CompetencyId id="020086" />
+				<TaxonomyId id="459" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="inventory" typeDescription="Found in WORK HISTORY; POS-4" typeId="020086" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="inventory">
+					<StringValue description="taxonomies">Purchasing, Procurement, Inventory Control, Supply Chain → Inventory</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVESTOR RELATIONS">
+				<CompetencyId id="7000028" />
+				<TaxonomyId id="704" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="Investor Relations" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="7000028">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Investor Relations">
+					<StringValue description="taxonomies">Finance → Investor Relations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVESTOR RELATIONS">
+				<CompetencyId id="1400165" />
+				<TaxonomyId id="224" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Investor Relations" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="1400165">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Investor Relations">
+					<StringValue description="taxonomies">Marketing → Public Relations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="INVESTOR RELATIONS">
+				<CompetencyId id="020117" />
+				<TaxonomyId id="240" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="Investor Relations" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="020117">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Investor Relations">
+					<StringValue description="taxonomies">Finance → Credit and Underwriting</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LEADERSHIP DEVELOPMENT">
+				<CompetencyId id="9000155" />
+				<TaxonomyId id="579" idOwner="9" description="Sovren" />
+				<CompetencyEvidence name="Leadership Development" typeDescription="Found in TRAINING; WORK HISTORY; POS-7" typeId="9000155" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Leadership Development">
+					<StringValue description="taxonomies">Human Resources → HR Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="LOGISTICS">
+				<CompetencyId id="022309" />
+				<TaxonomyId id="460" idOwner="97" description="Sovren" />
+				<CompetencyEvidence name="Logistics" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="022309">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Logistics">
+					<StringValue description="taxonomies">Purchasing, Procurement, Inventory Control, Supply Chain → Logistics</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKET INSIGHTS">
+				<CompetencyId id="1400037" />
+				<TaxonomyId id="587" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="market insights" typeDescription="Found in WORK HISTORY; POS-4" typeId="1400037" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="market insights">
+					<StringValue description="taxonomies">Marketing → Category Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKET INSIGHTS">
+				<CompetencyId id="1400322" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="market insights" typeDescription="Found in WORK HISTORY; POS-4" typeId="1400322" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="market insights">
+					<StringValue description="taxonomies">Marketing → Market Research</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKET RESEARCH">
+				<CompetencyId id="1400326" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="market research" typeDescription="Found in WORK HISTORY; POS-4" typeId="1400326" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="market research">
+					<StringValue description="taxonomies">Marketing → Market Research</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING">
+				<CompetencyId id="021241" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Marketing" typeDescription="Found in EDUCATION; PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; WORK HISTORY; DEG-1; DEG-3; POS-1; POS-4; POS-5; POS-6; POS-7" typeId="021241" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">193</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Marketing">
+					<StringValue description="taxonomies">Marketing → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING MANAGEMENT">
+				<CompetencyId id="021251" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Marketing Management" typeDescription="Found in WORK HISTORY; POS-1" typeId="021251" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Marketing Management">
+					<StringValue description="taxonomies">Marketing → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="021254" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Marketing Strategy" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-1; POS-6" typeId="021254" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">85</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Marketing Strategy">
+					<StringValue description="taxonomies">Marketing → Market Research</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400003" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Marketing Strategy" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-1; POS-6" typeId="1400003" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">85</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Marketing Strategy">
+					<StringValue description="taxonomies">Marketing → Product</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MARKETING STRATEGY">
+				<CompetencyId id="1400141" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Marketing Strategy" typeDescription="Found in EDUCATION; WORK HISTORY; DEG-3; POS-1; POS-6" typeId="1400141" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">85</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Marketing Strategy">
+					<StringValue description="taxonomies">Marketing → Marketing Communications</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="MBA">
+				<CompetencyId id="7000321" />
+				<TaxonomyId id="703" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="MBA" typeDescription="Found in WORK HISTORY; POS-7" typeId="7000321" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="MBA">
+					<StringValue description="taxonomies">Finance → Corporate Development</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="NEW PRODUCT DEVELOPMENT">
+				<CompetencyId id="003440" />
+				<TaxonomyId id="249" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="new product development" typeDescription="Found in SKILLS; WORK HISTORY; POS-1; POS-3; POS-4; POS-5" typeId="003440" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">108</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="new product development">
+					<StringValue description="taxonomies">Marketing → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="OPERATIONS">
+				<CompetencyId id="003875" />
+				<TaxonomyId id="436" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="operations" typeDescription="Found in WORK HISTORY; POS-4" typeId="003875" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="operations">
+					<StringValue description="taxonomies">Business Operations and General Business → Management Activities or Functions</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="POLYMER">
+				<CompetencyId id="023046" />
+				<TaxonomyId id="132" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="Polymer" typeDescription="Found in WORK HISTORY; POS-6" typeId="023046" lastUsed="2009-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Polymer">
+					<StringValue description="taxonomies">Engineering → Chemical</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRICING">
+				<CompetencyId id="022325" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="pricing" typeDescription="Found in EDUCATION; TRAINING; WORK HISTORY; DEG-3; POS-3; POS-6" typeId="022325" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">37</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="pricing">
+					<StringValue description="taxonomies">Finance → Operations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRICING ANALYSIS">
+				<CompetencyId id="005395" />
+				<TaxonomyId id="237" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="pricing analysis" typeDescription="Found in WORK HISTORY; POS-6" typeId="005395" lastUsed="2009-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="pricing analysis">
+					<StringValue description="taxonomies">Finance → Operations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PROBLEM SOLVING">
+				<CompetencyId id="005482" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="problem solving" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS; SKILLS; TRAINING" typeId="005482">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="problem solving">
+					<StringValue description="taxonomies">Business Operations and General Business → General Skills and Activities</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT DEVELOPMENT">
+				<CompetencyId id="005612" />
+				<TaxonomyId id="227" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="product development" typeDescription="Found in SKILLS; WORK HISTORY; POS-1; POS-3; POS-4; POS-5" typeId="005612" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">108</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product development">
+					<StringValue description="taxonomies">Marketing → Brand Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT DEVELOPMENT">
+				<CompetencyId id="1400022" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="product development" typeDescription="Found in SKILLS; WORK HISTORY; POS-1; POS-3; POS-4; POS-5" typeId="1400022" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">108</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product development">
+					<StringValue description="taxonomies">Marketing → Product</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT LIFECYCLE">
+				<CompetencyId id="023011" />
+				<TaxonomyId id="199" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="product lifecycle" typeDescription="Found in WORK HISTORY; POS-1" typeId="023011" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product lifecycle">
+					<StringValue description="taxonomies">Information Technology → Project Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT LIFECYCLE MANAGEMENT">
+				<CompetencyId id="005631" idOwner="023011" />
+				<TaxonomyId id="199" idOwner="10" description="Sovren" />
+				<CompetencyEvidence name="product lifecycle management" typeDescription="Found in WORK HISTORY; POS-1" typeId="005631" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product lifecycle management">
+					<StringValue description="taxonomies">Information Technology → Project Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT POSITIONING">
+				<CompetencyId id="1400007" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="product positioning" typeDescription="Found in WORK HISTORY; POS-3" typeId="1400007" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product positioning">
+					<StringValue description="taxonomies">Marketing → Product</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PRODUCT SPECIFICATIONS">
+				<CompetencyId id="005644" />
+				<TaxonomyId id="144" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="product specifications" typeDescription="Found in WORK HISTORY; POS-4" typeId="005644" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="product specifications">
+					<StringValue description="taxonomies">Engineering → Computer Hardware</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLIC RELATIONS">
+				<CompetencyId id="7000027" />
+				<TaxonomyId id="704" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="Public Relations" typeDescription="Found in EDUCATION" typeId="7000027">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Public Relations">
+					<StringValue description="taxonomies">Finance → Investor Relations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLIC RELATIONS">
+				<CompetencyId id="023378" />
+				<TaxonomyId id="224" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Public Relations" typeDescription="Found in EDUCATION" typeId="023378">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Public Relations">
+					<StringValue description="taxonomies">Marketing → Public Relations</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="PUBLIC RELATIONS">
+				<CompetencyId id="006010" />
+				<TaxonomyId id="437" idOwner="34" description="Sovren" />
+				<CompetencyEvidence name="Public Relations" typeDescription="Found in EDUCATION" typeId="006010">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Public Relations">
+					<StringValue description="taxonomies">Business Operations and General Business → General Skills and Activities</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="QUALITY CONTROL">
+				<CompetencyId id="006270" />
+				<TaxonomyId id="143" idOwner="5" description="Sovren" />
+				<CompetencyEvidence name="quality control" typeDescription="Found in WORK HISTORY; POS-4" typeId="006270" lastUsed="2012-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="quality control">
+					<StringValue description="taxonomies">Engineering → Process</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RECRUITING">
+				<CompetencyId id="024638" />
+				<TaxonomyId id="492" idOwner="37" description="Sovren" />
+				<CompetencyEvidence name="recruiting" typeDescription="Found in PERSONAL INTERESTS AND ACCOMPLISHMENTS" typeId="024638">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="recruiting">
+					<StringValue description="taxonomies">Recruiting → Recruiting Tasks and Activities</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="REPEAT SALES">
+				<CompetencyId id="030636" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="repeat sales" typeDescription="Found in WORK HISTORY; POS-7" typeId="030636" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="repeat sales">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="1400216" idOwner="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Retail" typeDescription="Found in EDUCATION" typeId="1400216">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Retail">
+					<StringValue description="taxonomies">Marketing → Channel Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL">
+				<CompetencyId id="030018" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="Retail" typeDescription="Found in EDUCATION" typeId="030018">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Retail">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400215" />
+				<TaxonomyId id="226" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Retail Marketing" typeDescription="Found in EDUCATION" typeId="1400215">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Retail Marketing">
+					<StringValue description="taxonomies">Marketing → Channel Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="RETAIL MARKETING">
+				<CompetencyId id="1400040" />
+				<TaxonomyId id="587" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="Retail Marketing" typeDescription="Found in EDUCATION" typeId="1400040">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Retail Marketing">
+					<StringValue description="taxonomies">Marketing → Category Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES CAMPAIGNS">
+				<CompetencyId id="030696" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="sales campaigns." typeDescription="Found in WORK HISTORY; POS-3" typeId="030696" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="sales campaigns.">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES INCREASE">
+				<CompetencyId id="030751" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="sales increase" typeDescription="Found in WORK HISTORY; POS-3" typeId="030751" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="sales increase">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES REPRESENTATIVES">
+				<CompetencyId id="030814" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="sales representatives" typeDescription="Found in WORK HISTORY; POS-7" typeId="030814" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="sales representatives">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TARGETS">
+				<CompetencyId id="030829" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="sales targets" typeDescription="Found in WORK HISTORY; POS-3" typeId="030829" lastUsed="2013-12-31">
+					<NumericValue description="Total Months">12</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="sales targets">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TEAM">
+				<CompetencyId id="030830" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="sales team" typeDescription="Found in WORK HISTORY; POS-7" typeId="030830" lastUsed="2006-12-31">
+					<NumericValue description="Total Months">72</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="sales team">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TRAINING">
+				<CompetencyId id="007393" />
+				<TaxonomyId id="234" idOwner="7" description="Sovren" />
+				<CompetencyEvidence name="Sales Training" typeDescription="Found in TRAINING" typeId="007393">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Sales Training">
+					<StringValue description="taxonomies">Finance → Lending</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SALES TRAINING">
+				<CompetencyId id="030840" />
+				<TaxonomyId id="105" idOwner="20" description="Sovren" />
+				<CompetencyEvidence name="Sales Training" typeDescription="Found in TRAINING" typeId="030840">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Sales Training">
+					<StringValue description="taxonomies">Sales → General</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="SEGMENTATION">
+				<CompetencyId id="1400105" />
+				<TaxonomyId id="590" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="segmentation" typeDescription="Found in WORK HISTORY; POS-1; POS-6; POS-7" typeId="1400105" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">156</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="segmentation">
+					<StringValue description="taxonomies">Marketing → Channel, Partner &amp; Ecosystem Marketing</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STRATEGIC MARKETING">
+				<CompetencyId id="1400002" />
+				<TaxonomyId id="585" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="strategic marketing" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400002" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="strategic marketing">
+					<StringValue description="taxonomies">Marketing → Product</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STRATEGIC MARKETING">
+				<CompetencyId id="1400138" />
+				<TaxonomyId id="592" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="strategic marketing" typeDescription="Found in WORK HISTORY; POS-5" typeId="1400138" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="strategic marketing">
+					<StringValue description="taxonomies">Marketing → Marketing Communications</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="STRATEGIC MARKETING">
+				<CompetencyId id="008684" />
+				<TaxonomyId id="223" idOwner="14" description="Sovren" />
+				<CompetencyEvidence name="strategic marketing" typeDescription="Found in WORK HISTORY; POS-5" typeId="008684" lastUsed="2011-12-31">
+					<NumericValue description="Total Months">24</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="strategic marketing">
+					<StringValue description="taxonomies">Marketing → Market Research</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEACHING">
+				<CompetencyId id="026879" />
+				<TaxonomyId id="361" idOwner="64" description="Sovren" />
+				<CompetencyEvidence name="teaching" typeDescription="Found in WORK HISTORY; POS-1" typeId="026879" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="teaching">
+					<StringValue description="taxonomies">Training → Other</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TEACHING">
+				<CompetencyId id="026880" />
+				<TaxonomyId id="505" idOwner="77" description="Sovren" />
+				<CompetencyEvidence name="teaching" typeDescription="Found in WORK HISTORY; POS-1" typeId="026880" lastUsed="2018-01-08">
+					<NumericValue description="Total Months">60</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="teaching">
+					<StringValue description="taxonomies">Education → Positions</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TOTAL QUALITY MANAGEMENT">
+				<CompetencyId id="009737" />
+				<TaxonomyId id="446" idOwner="69" description="Sovren" />
+				<CompetencyEvidence name="Total Quality Management" typeDescription="Found in CERTIFICATIONS; TRAINING" typeId="009737">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Total Quality Management">
+					<StringValue description="taxonomies">QA and QC → Techniques</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+			<Competency name="TRAINING">
+				<CompetencyId id="200064" />
+				<TaxonomyId id="903" idOwner="92" description="Sovren" />
+				<CompetencyEvidence name="Training" typeDescription="Found in TRAINING" typeId="200064">
+					<NumericValue description="Total Months">6</NumericValue>
+				</CompetencyEvidence>
+				<CompetencyEvidence name="Training">
+					<StringValue description="taxonomies">Knowledge and Learning Management → General Knowledge and Learning Management</StringValue>
+				</CompetencyEvidence>
+			</Competency>
+		</Qualifications>
+		<Languages>
+			<Language>
+				<LanguageCode>en</LanguageCode>
+				<Read>true</Read>
+				<Write>true</Write>
+				<Speak>true</Speak>
+				<Comments>[RESUME_LANGUAGE]</Comments>
+			</Language>
+		</Languages>
+		<Achievements>
+			<Achievement>
+				<Description>Senior Business Leader and Marketing Professional with more than 15 years of experience in multiple business to business and business to consumer settings. Proven technical, financial management, change management, and problem solving skills.  Outstanding track-record in building high-performing teams to achieve results. Extensive experience working in global markets; recently lived in China for 2 years with Asia-wide responsibility. Full P&amp;L accountability in the food protection and consumer goods industries. Specific expertise includes</Description>
+			</Achievement>
+			<Achievement>
+				<Description>President, Beta Gamma Sigma (national business honor society)</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Magna Cum Laude Graduate</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Honors College Graduate</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recognized with DuPont Pioneer Award for developing new recruiting strategy for marketing talent in China that saved $1M in first year and increased retention rate for marketing talent from 5% to 85% over five years, 2011</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recognized with DuPont Pioneer Award for developing and implementing three-component curriculum program (general management, marketing and leadership) for top marketing talent in company. Elected to internal Board of Directors for marketing talent, 2009</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Achieved 96% student approval rating, 2014</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Celebrating Women of Character, Courage, and Commitment faculty honoree. Office of Leadership Empowerment and Development, West Chester University, 2014</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Recruited by Investor Relations team to build executive presentations for company's five-year outlook and to finalize key messages and materials for Wall Street. Worked directly with senior leaders, including Chief Financial Officer and Chief Executive Officer, 2009</Description>
+			</Achievement>
+			<Achievement>
+				<Description>FedEx Freight International Graduate Logistics Case Competition, 3rd Place, 2008</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Big 10 Case Competition, 3rd Place, 2007</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Mary Kay Cosmetics: set unit recruiting record in 2002 with 16 new team-members; multiple time Silver and Bronze Medal winner for recruiting efforts</Description>
+			</Achievement>
+			<Achievement>
+				<Description>Jodie Vanderman Driver</Description>
+			</Achievement>
+		</Achievements>
+		<Associations>
+			<Association>
+				<Name>Marketing Association</Name>
+				<Role>
+					<Name>Vice President</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Board of Directors, Penn State University, Smeal College of Business MBA Program</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Board of Directors, Shippensburg University Alumni Association</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Lean In, Chester County</Name>
+				<Role>
+					<Name>Founding Member</Name>
+				</Role>
+			</Association>
+			<Association>
+				<Name>Past Member, Board of Directors, DuPont Marketing Leadership Development Program</Name>
+				<Role>
+					<Name>Member</Name>
+				</Role>
+			</Association>
+		</Associations>
+		<RevisionDate>2018-01-08</RevisionDate>
+	</StructuredXMLResume>
+	<NonXMLResume>
+		<TextResume>Jodie Vanderman Driver, MBA
+
+234 Heather Ridge Circle	Cell: (724) 255-2295
+West Chester, PA 19382	JodieVDriver@gmail.com
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+AREAS OF EXPERTISE
+
+Senior Business Leader and Marketing Professional with more than 15 years of experience in multiple business to business and business to consumer settings. Proven technical, financial management, change management, and problem solving skills.  Outstanding track-record in building high-performing teams to achieve results. Extensive experience working in global markets; recently lived in China for 2 years with Asia-wide responsibility. Full P&amp;L accountability in the food protection and consumer goods industries. Specific expertise includes:
+
+
+• Create financial models and determine product adoption rates
+• Determine market opportunities for incremental and disruptive innovation initiatives
+• Concentrated knowledge of China, India, and Southeast Asia markets
+• Lead senior management and multi-functional teams to drive new product development
+• Extensive involvement in agriculture markets- crop and food protection
+• Implement initiatives in dynamic and diverse environments
+
+
+EDUCATION
+
+PENNSYLVANIA STATE UNIVERSITY, University Park, PA
+Master of Business Administration, Product and Market Development and Strategic Leadership
+• President, Student Government
+• Vice President, Marketing Association
+• Graduate Assistantships:
+◦ Office of the Dean - Academic Integrity, 2007
+* Created and implemented academic integrity guidelines within the College of Business
+◦ Office of the Dean of Executive Education, 2007-2008
+* Developed adult education programming for corporate customers
+• DuPont Federal Government Division - North America Marketing Strategy Consultant, 2007
+◦ Identified opportunities and strategies to drive adoption of DuPont products by the Department of Defense and Department of Energy
+
+SHIPPPENSBURG UNIVERSITY OF PENNSYLVANIA, Shippensburg, PA
+Bachelor of Science in Business Administration
+• President, Beta Gamma Sigma (national business honor society)
+• Leader, International Business Association
+• President, Phi Beta Lambda (Future Business Leaders of America)
+• Magna Cum Laude Graduate
+• Honors College Graduate
+• John L. and Cora I. Groves Scholar
+• Internships: JLG Industries - International Sales, 1998; East Meets West Emporium - Retail Marketing, 1999; Orrstown Bank - Promotions and Public Relations; 1999
+
+
+Jodie Vanderman Driver	~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PUBLICATIONS
+
+China Marketing Managers Development Program (internal publication for DuPont, Vanderman J.). Developed, documented, and taught 16-week, project-based course for top marketing talent in China focused on effectively commercializing new technology and gaining rapid adoption, 2010.
+
+Build, Fix or Terminate: The Distributor's Guide to More Profitable Supplier Relations. ISBN 1-934014-16-8, 2009. Research and content contributor to book by James A. Narus and Bob Donath. Publication focuses on distributors' relationships with manufacturers and suppliers, 2009.
+
+Rapid Customer Segmentation and Product Offering Design (internal publication for DuPont, Paul D. and Vanderman J.). Developed, documented and taught simplified segmentation methodology to enhance swift, customer-focused decision making in business critical situations and to quickly tailor product offerings to meet unique needs, 2009.
+
+Global General Management, Leadership, and Marketing Training Program (internal publication for DuPont, Vanderman J.). Developed and executed global, three-component curriculum and training program for top marketing talent to complete during their first year in company, 2009.
+
+Determining Prices in Volatile Markets Methodology (internal publication for DuPont, Sato M., Shah M., and Vanderman J.). Developed and documented methodology to identify and track key parameters to support pricing analysis and decision making in unstable markets, 2008.
+
+PRESENTATIONS &amp; EXECUTIVE EDUCATION SEMINARS
+
+Success in the Global Economy.  Shippensburg University of Pennsylvania.  Shippensburg, PA.  1,500 participations, 2015.
+
+Extend, Extract and Profit: Managing the Product Lifecycle.  The Product Management and Innovation Event.  Philadelphia, PA. 75 participants, 2014.
+
+How to Use Marketing Strategy Fundamentals to Penetrate Markets.  MBA Marketing Association.  State College, PA. 12 participants, 2014.
+
+Strategy Development and Execution in Global Settings.  Business Strategy and Policy Course. West Chester, PA. 35 participants, 2014.
+
+Working Globally in Business Today.  International Management Course.  Shippensburg, PA. 8 participants, 2013.
+
+The Global Collaboratory: How to Work Cross-Culturally to Enhance Business Results.  Marketing Leadership Development Program Global Conference. Wilmington, DE. 75 participants, 2012.
+
+For Professionals- Applying the Strategic Marketing Process to New Product Development Efforts: One-Day Workshop. DuPont Asia Pacific Refinishes Business.  Shanghai, China. 15 participants, 2011.
+
+China Marketing Managers: Commercialize Technology and Win Customers: 16 Week Couse. DuPont China. Shanghai, China. 12 participants, 2010-2011.
+Jodie Vanderman Driver	~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PRESENTATIONS &amp; EXECUTIVE EDUCATION SEMINARS, ~~~~~~
+
+Applying the Strategic Marketing Process to Identify Revenue Opportunities: One-Day Workshop.  DuPont Crop Protection Business. Singapore. 55 participants, 2010.
+
+The Strategic Marketing Process for Technology &amp; Business Consultants: Two-Day Workshop. DuPont Asia Pacific. Shanghai, China. 35 participants, 2010.
+
+Using Strategic Marketing to Identify New Market Opportunities: One-Day Workshop. DuPont South East Asia. Kuala Lumpur, Malaysia. 10 participants, 2010.
+
+The Strategic Marketing Process for Marketing Leaders.  DuPont India.  Mumbai, India.  10 participants, 2010.
+
+Business Leaders, Use Marketing Strategy to Drive Technology Adoption and Sales: One-Day Workshop. DuPont China. Shanghai, China. 42 participants, 2010.
+
+Rapid Customer Segmentation and Product Offering Redesign: when, why, and how to do it. DuPont North America. Wilmington, DE. 30 participants, 2009.
+
+Determine Prices in Volatile Markets - Online Training and Case Study. DuPont China. Wilmington, DE. 12 participants, 2008.
+
+Jump-Start Your Business: Lead Generation Techniques. Mary Kay Cosmetics January Kick-Off Workshop. Pittsburgh, PA. 200 participants, 2002.
+
+HONORS AND AWARDS
+
+• Achieved 96% student approval rating, 2014.
+• Celebrating Women of Character, Courage, and Commitment faculty honoree. Office of Leadership Empowerment and Development, West Chester University, 2014.
+• Recognized with DuPont Pioneer Award for developing new recruiting strategy for marketing talent in China that saved $1M in first year and increased retention rate for marketing talent from 5% to 85% over five years, 2011.
+• Recruited by Investor Relations team to build executive presentations for company's five-year outlook and to finalize key messages and materials for Wall Street. Worked directly with senior leaders, including Chief Financial Officer and Chief Executive Officer, 2009.
+• Recognized with DuPont Pioneer Award for developing and implementing three-component curriculum program (general management, marketing and leadership) for top marketing talent in company. Elected to internal Board of Directors for marketing talent, 2009.
+• FedEx Freight International Graduate Logistics Case Competition, 3rd Place, 2008.
+• Big 10 Case Competition, 3rd Place, 2007.
+• Mary Kay Cosmetics: set unit recruiting record in 2002 with 16 new team-members; multiple time Silver and Bronze Medal winner for recruiting efforts.
+
+
+Jodie Vanderman Driver	~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PROFESSIONAL EXPERIENCE
+
+WEST CHESTER UNIVERSITY OF PENNSYLVANIA, West Chester, PA	2013-Present
+Professor of Marketing Strategy and Sales
+Facilitate active learning and independent thinking among junior and senior business majors with mission to shape future leaders who are prepared to successfully and ethically run global businesses.
+• Core subject is marketing strategy: conduct hands-on teaching to develop skills in competitor analysis; situational analysis; segmentation, targeting, and positioning; 4Ps build-out; financial modeling; metric monitoring; new product development; product lifecycle management; and S curve modeling.
+• Extended subjects include: Advertising, Marketing Management, and Personal Selling.
+• Teach 100+ junior and senior business majors each semester.
+
+E.I. DU PONT DE NEMOURS AND COMPANY, Wilmington, DE	2008-2013
+Global Manager, Health &amp; Nutrition Division, Food Diagnostics Protection Business - Wilmington, DE, 2013
+Led full portfolio of $3.4 billion Health &amp; Nutrition business unit's global food and pharmaceutical safety business with 100% P&amp;L accountability. Established global strategies. Directed incremental and disruptive innovation identification and product commercialization efforts, and spearheaded sales campaigns.
+• Set new precedent for product commercialization by compressing technology adoption and revenue realization process to six months, vs. historical two-to-three year timeframe. Reforecast sales increase by $5M in 2014.
+• Led monthly global stage-gate review of 30 new product development efforts across the Food BioProtection Division.
+• Worked with 11 Regional Product Managers around the world to drive global strategies into tactical regional plans for successful technology adoption and sales execution.
+• Created a growth program to bring transparency and accountability to delivering against adoption and sales targets for key new products.
+• Overhauled portfolio pricing and product positioning to maintain variable margin levels and retain 96% of customers in fragmenting and commoditizing market.
+
+Global Manager, Health &amp; Nutrition Division, Food Diagnostics Protection Business - Wilmington, DE, 2012
+Managed 65% of product portfolio P&amp;L accountability. Led daily business operations, while creating global marketing objectives, strategies and tactics to grow business.
+• Identified and drove 10 new product development efforts across the portfolios.  Validated product strategy, specifications, and product adoption case utilizing voice of customer, competitive benchmarking, and market research, and by projecting global government regulation changes.  Pitched new product development plans to a cross functional team for funding approval and resource allocation.  Represented customer and market insights throughout the stage gate process.  Initiated and won support for 2 new product develop efforts with 2013 commercialization dates and expected revenue of $5M in year one.
+• Overhauled strategy for important, but lagging product by repositioning it and redirecting U.S.-focused resources to global markets, resulting in sales of $1.1M versus $97K in 2011.
+• Negotiated non-exclusive licensing agreement with South Korean company to deliver disruptive, next-generation technology. Developed product specifications and business case, as well as strategic positioning, technology adoption rates, and financing terms. 2015 expected revenue is $6M.
+• Led business turnaround by focusing on quality control, inventory management, global marketing, and sales force retraining.  Exceeded target revenue by 5%.
+
+Jodie Vanderman Driver	~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+PROFESSIONAL EXPERIENCE, ~~~~~~
+
+Asia Pacific Marketing Manager - Shanghai, China, 2010-2011
+Launched dramatically new regional strategic marketing process focused on addressing critical short-term growth issues with special emphasis on China, India, and Southeast Asia.
+• Primary market was agriculture- crop and food protection.  Initiatives addressed repositioning current products to maximize profitability, new product development, and country penetration strategies.
+• Led cross-functional teams to identify opportunities and trouble shoot technology and commercialization challenges.  Delivered incremental revenue of $3M USD within 15 months.
+• Exceeded strategic business targets by completing work in rapid, 18-month timeframe.
+• Created and implemented customized change management approach that became best practice and has been adopted globally.
+
+Global Marketing Strategy Consultant - Wilmington, DE, 2008-2009
+Provided subject matter expertise as member of internal consulting team to significantly increase profitability across multiple and highly-varied company businesses.
+• Directed pricing overhaul for Pioneer Seed Corn Business that identified $30 million revenue gain for 2009 season by conducting competitor pricing analysis, and by capturing pricing discrepancies across product portfolio.
+• Conducted market and customer segmentation for Chemical Solutions Enterprises Specialty Polymer Solutions business that led to $5 million in saving through significant capital cost improvements and positive price/volume growth trade-offs.
+• Implemented simplified segmentation methodology to support fast customer-focused decision-making for FluroPolymer Solutions business - helping it weather dramatic downturn because of weak global economic conditions, leading to $60M fixed cost savings in one year.
+
+MARY KAY COSMETICS, Dallas, TX	2001-2006
+Independent Business Owner and Sales Leader - Bentleyville, PA
+Created and implemented start-up business plan for leading national direct sales franchise.  Led, managed and trained 25-person sales team, building strong retention in this high-turnover industry.
+• Planned and launched segmentation and targeting strategies to grow business from zero to more than 500 customers within two years.
+• Produced robust repeat sales with 80% of customer base consisting of loyal purchasers; 30% of customers maintained for three or more years with high average sales per customer.
+• Qualified for "Career Car Program" - a revenue-based and team-building performance bonus achieved by approximately 3% of sales representatives globally.
+
+AFFILIATION
+
+• Member, Board of Directors, Penn State University, Smeal College of Business MBA Program
+• Member, Board of Directors, Shippensburg University Alumni Association
+• Founding Member, Lean In, Chester County
+• Past Member, Board of Directors, DuPont Marketing Leadership Development Program
+• Past Leader, DuPont Women's Network
+
+
+Jodie Vanderman Driver	~~~~~~
+   ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+PROFESSIONAL DEVELOPMENT
+
+• Dale Carnegie Course
+• Tjitra and Associates: Cross-Cultural Awareness &amp; Intercultural Communication, China/Asia Pacific
+• Everything DISC® Management Training
+• Everything DISC® Sales Training
+• DuPont's People Leadership Development Series
+• Franklin Covey® The Four Disciplines of Execution(TM)
+• 6 Ds® Workshop - The Six Disciplines of Breakthrough Learning: How to Turn Training and Development into Business Results
+• Monitor Group: Advanced Pricing Seminar
+• The Professional Development Network (PDN): Analytical Problem Solving and Presentations
+• Certificate of Total Quality Management
+• 21 Irrefutable Laws of Leadership, John Maxwell
+• Sales Training Seminar, David Cooper
+• Designing and Delivering Online Courses</TextResume>
+	</NonXMLResume>
+	<UserArea>
+		<sov:ResumeUserArea>
+			<sov:Culture>
+				<sov:Language>en</sov:Language>
+				<sov:Country>US</sov:Country>
+				<sov:CultureInfo>en-US</sov:CultureInfo>
+			</sov:Culture>
+			<sov:Location>
+				<sov:Latitude inferred="true">39.9239</sov:Latitude>
+				<sov:Longitude inferred="true">-75.6203</sov:Longitude>
+			</sov:Location>
+			<sov:ExperienceSummary>
+				<sov:Description>Jodie Vanderman Driver's experience appears to be concentrated in Marketing (General), with a lesser concentration in Sales (General). Jodie Vanderman Driver has 16 years of work experience, with 10 years of management experience, including a mid-level position.</sov:Description>
+				<sov:MonthsOfWorkExperience>193</sov:MonthsOfWorkExperience>
+				<sov:YearsOfWorkExperience>16</sov:YearsOfWorkExperience>
+				<sov:MonthsOfManagementExperience>120</sov:MonthsOfManagementExperience>
+				<sov:YearsOfManagementExperience>10</sov:YearsOfManagementExperience>
+				<sov:HighestManagementScore>55</sov:HighestManagementScore>
+				<sov:ExecutiveType>marketing</sov:ExecutiveType>
+				<sov:ManagementStory>Starting on 1/1/2013, the candidate held the following mid-level management position for 12 months:
+	Title: Global Manager for Food Diagnostics Protection Business, Health &amp; Nutrition Division
+Starting on 1/1/2012, the candidate held the following mid-level management position for 12 months:
+	Title: Global Manager for Food Diagnostics Protection Business, Health &amp; Nutrition Division, Food Diagnostics Protection Business
+Starting on 1/1/2010, the candidate held the following mid-level management position for 2 years:
+	Title: Asia Pacific Marketing Manager
+Starting on 1/1/2001, the candidate held the following low-level management position for 6 years and 1 months:
+	Title: Independent Business Owner and Sales Leader for MARY KAY COSMETICS</sov:ManagementStory>
+				<sov:BestFitTaxonomies>
+					<sov:BestFitTaxonomy id="14" rootId="Sovren" name="Marketing" weight="456714.97" percentOfOverall="93.62" percentOfParent="93.62">
+						<sov:BestFitTaxonomy id="249" rootId="Sovren" name="General" weight="450834.38" percentOfOverall="92.42" percentOfParent="98.71" />
+						<sov:BestFitTaxonomy id="590" rootId="Sovren" name="Channel, Partner &amp; Ecosystem Marketing" weight="1841.18" percentOfOverall="0.38" percentOfParent="0.40" />
+					</sov:BestFitTaxonomy>
+					<sov:BestFitTaxonomy id="20" rootId="Sovren" name="Sales" weight="26737.29" percentOfOverall="5.48" percentOfParent="5.48">
+						<sov:BestFitTaxonomy id="105" rootId="Sovren" name="General" weight="26737.29" percentOfOverall="5.48" percentOfParent="100.00" />
+					</sov:BestFitTaxonomy>
+				</sov:BestFitTaxonomies>
+			</sov:ExperienceSummary>
+			<sov:Sections>
+				<sov:Section starts="6" ends="18" sectionType="SKILLS">AREAS OF EXPERTISE</sov:Section>
+				<sov:Section starts="19" ends="46" sectionType="EDUCATION">EDUCATION</sov:Section>
+				<sov:Section starts="47" ends="96" sectionType="OTHER_PUBLICATIONS">PUBLICATIONS</sov:Section>
+				<sov:Section starts="97" ends="111" sectionType="PERSONAL INTERESTS AND ACCOMPLISHMENTS">HONORS AND AWARDS</sov:Section>
+				<sov:Section starts="112" ends="139" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="140" ends="174" sectionType="WORK HISTORY">PROFESSIONAL EXPERIENCE</sov:Section>
+				<sov:Section starts="175" ends="189" sectionType="TRAINING">PROFESSIONAL DEVELOPMENT</sov:Section>
+			</sov:Sections>
+			<sov:ReservedData>
+				<sov:Phones>
+					<sov:Phone>Cell: (724) 255-2295</sov:Phone>
+					<sov:Phone>(724) 255-2295</sov:Phone>
+				</sov:Phones>
+				<sov:EmailAddresses>
+					<sov:EmailAddress>JodieVDriver@gmail.com</sov:EmailAddress>
+				</sov:EmailAddresses>
+			</sov:ReservedData>
+			<sov:ParsedTextLength>15971</sov:ParsedTextLength>
+			<sov:ParseTime>954</sov:ParseTime>
+			<sov:LicenseSerialNumber>US:Infoproject:20180108200453093:e296e0e6-e597-458b-a918-b0a50cd0d2a2</sov:LicenseSerialNumber>
+			<sov:ParserConfigurationString>XX00000X0X00000001X1101010110101101X1X000000000000011111110X00000000001000010000000000000000000010000001</sov:ParserConfigurationString>
+			<sov:ParserVersion>7.5.7514.14</sov:ParserVersion>
+		</sov:ResumeUserArea>
+	</UserArea>
+</Resume>
